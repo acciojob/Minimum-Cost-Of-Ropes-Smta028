@@ -18,7 +18,3 @@ while(arr.length>1){
 }
 document.getElementById("result").textContent=cost;	
 }
-  
-  
-  
-}  
